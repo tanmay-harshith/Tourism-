@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-vector/travel-tourism-illustration-with-resort-sightseeing-elements_1284-30189.jpg");
+    height: 640px;
+    background-size: cover;
+}
+
+.course-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+    height: 160px;
+}
+
+.main-heading {
+    color: blue;
+    font-family: "Monoton";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.paragraph {
+    color: red;
+    font-family: "Caveat";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.button {
+    color: black;
+    font-size: 16px;
+    height: 40px;
+    width: 130px;
+    background-color: #17fa02;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+.coding-card {
+    background-color: #00000080;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #48ee59;
+    padding: 45px;
+    width: 300px;
+}
+
+.fav-places-background {
+    background-image: url("https://img.freepik.com/free-photo/big-ben-westminster-bridge-sunset-london-uk_268835-1395.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading-fav-places {
+    color: white;
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.fav-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+}
+
+.fav-place-card-heading {
+    color: #040ef6;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.fav-place-card-discription {
+    font-family: Roboto;
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.fav-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 8px;
+}
+
+.detailed-view-card-description {
+    font-family: Roboto;
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
